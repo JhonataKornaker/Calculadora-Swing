@@ -1,2 +1,2 @@
 # Calculadora Swing
- Projeto calculadora usando swing - JAVA
+ Projeto calculadora com a linguagem java, usando padrão observer e com interface Desktop com swing. 
